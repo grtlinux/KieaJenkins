@@ -1,4 +1,4 @@
-package sample.spring4.chapter10;
+package sample.spring.chapter10;
 
 public class App {
 
