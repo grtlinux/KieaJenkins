@@ -1,4 +1,4 @@
-package sample.spring4.chapter10.domain;
+package sample.spring.chapter10.domain;
 
 public class FixedDepositDetails {
 	private long id; //-- id value is set by the system

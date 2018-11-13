@@ -1,4 +1,4 @@
-package sample.spring4.chapter10.dao;
+package sample.spring.chapter10.dao;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.Random;
 
 import org.springframework.stereotype.Repository;
 
-import sample.spring4.chapter10.domain.FixedDepositDetails;
+import sample.spring.chapter10.domain.FixedDepositDetails;
 
 @Repository
 public class FixedDepositDaoImpl implements FixedDepositDao {

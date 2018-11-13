@@ -1,12 +1,12 @@
-package sample.spring4.chapter10.service;
+package sample.spring.chapter10.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import sample.spring4.chapter10.dao.FixedDepositDao;
-import sample.spring4.chapter10.domain.FixedDepositDetails;
+import sample.spring.chapter10.dao.FixedDepositDao;
+import sample.spring.chapter10.domain.FixedDepositDetails;
 
 @Service
 public class FixedDepositServiceImpl implements FixedDepositService {

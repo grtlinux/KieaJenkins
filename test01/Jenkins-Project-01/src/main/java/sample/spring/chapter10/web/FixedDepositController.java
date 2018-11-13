@@ -1,4 +1,4 @@
-package sample.spring4.chapter10.web;
+package sample.spring.chapter10.web;
 
 import java.util.HashMap;
 import java.util.List;
@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import sample.spring4.chapter10.domain.FixedDepositDetails;
-import sample.spring4.chapter10.service.FixedDepositService;
+import sample.spring.chapter10.domain.FixedDepositDetails;
+import sample.spring.chapter10.service.FixedDepositService;
 
 @Controller
 @RequestMapping(value = "/fixedDeposit")

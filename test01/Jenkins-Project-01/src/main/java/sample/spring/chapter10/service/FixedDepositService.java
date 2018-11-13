@@ -1,10 +1,10 @@
-package sample.spring4.chapter10.dao;
+package sample.spring.chapter10.service;
 
 import java.util.List;
 
-import sample.spring4.chapter10.domain.FixedDepositDetails;
+import sample.spring.chapter10.domain.FixedDepositDetails;
 
-public interface FixedDepositDao {
+public interface FixedDepositService {
 	
 	public List<FixedDepositDetails> getFixedDeposits();
 	public void saveFixedDeposit(FixedDepositDetails fixedDepositDetails);
