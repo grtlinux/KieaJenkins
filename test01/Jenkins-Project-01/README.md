@@ -9,7 +9,7 @@ Setting on Jenkins job
 ----------------------
 
 General
-![Jenkins-Project-01_01.png](/images/Jenkins-Project-01_01.png "Jenkins-Project-01_01.png")
+![Jenkins-Project-01_01.png](images/Jenkins-Project-01_01.png "Jenkins-Project-01_01.png")
 
 소스 코드 관리
 ![Jenkins-Project-01_02.png](/images/Jenkins-Project-01_02.png "Jenkins-Project-01_02.png")
